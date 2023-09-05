@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! <br>My name is Anjishnu Ganguly ... <br>and I'm an inspiring web3 developer...,<br>Funfact ..... I am a trash talker...</h2>
+<h2 align="left">Hi 👋! <br>My name is Anjishnu Ganguly ... <br>and I'm an aspiring web3 developer...,<br></h2>
 
 ###
 
