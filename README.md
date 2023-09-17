@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="54" alt="c logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="54" alt="linux logo"  />
-  <img src="https://hardhat.org/_next/static/media/he-head.aed81bd1.svg" height="54" alt="hardhat logo"  />
+  <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" height="54" alt="hardhat logo"  />
 </div>
 
 ###
