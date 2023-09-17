@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="54" alt="c logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="54" alt="linux logo"  />
-  <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg" height="54" alt="hardhat logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FH%2Fhardhat-logo-888739EBB4-seeklogo.com.png&f=1&nofb=1&ipt=aae57ea134b99e94e43c3de4cd386ca96cb67f12f7da1506af61f3bf67ad9d20&ipo=images" height="54" alt="hardhat logo"  />
 </div>
 
 ###
