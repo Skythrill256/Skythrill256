@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Skythrill256/Skythrill256/output/snake.svg" alt="Snake animation" />
+
 
 ###
